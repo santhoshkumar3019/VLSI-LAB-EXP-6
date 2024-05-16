@@ -1,13 +1,16 @@
 # VLSI-LAB-EXP-6
 
 **AIM:**
+
 To design and simulate the CMOS inverter and observe the DC and transient responses using cadence tool.
 
 **APPARATUS REQUIRED:**
+
 1.	Laptop with MobaXterm
 2.	Cadence tool
 
 **PROCEDURE**
+
 Creating a new library:
 1.	In the library manager, execute File - New library. The new library form appears.
 2.	In the new library form, type ‘my design lib’ in the name section.
