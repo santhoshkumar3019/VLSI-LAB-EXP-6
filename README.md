@@ -6,6 +6,7 @@ To design and simulate the CMOS inverter and observe the DC and transient respon
 **APPARATUS REQUIRED:**
 1.	Laptop with MobaXterm
 2.	Cadence tool
+
 **PROCEDURE**
 Creating a new library:
 1.	In the library manager, execute File - New library. The new library form appears.
